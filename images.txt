@@ -1,4 +1,7 @@
 #vulhub/vulhub
+vulhub/php:7.0.30
+vulhub/nginx:1
+vulhub/flask:1.1.1
 vulhub/solr:8.11.0
 vulhub/spring-data-commons:2.0.5
 vulhub/elfinder:2.1.58
