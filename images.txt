@@ -1,4 +1,5 @@
 #vulhub/vulhub
+vulhub/baselinux:centos-6
 vulhub/weblogic:10.3.6.0-2017
 vulhub/php:7.0.30
 vulhub/nginx:1
